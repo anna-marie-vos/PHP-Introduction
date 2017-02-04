@@ -11,3 +11,4 @@
 * This will create a localhost in the browser. (use firefox)
 * navigate to: http://localhost/dashboard
 * for commands click on the buttons at the top: http://localhost/dashboard/phpinfo.php 
+* to terminate the program type: /opt/lampp/lampp stop
