@@ -1,7 +1,7 @@
 <?php
 //get a value from the browser
-//type this in the browser: http://localhost/PHP-Introduction/tut6-dynamicVars.php?name=Tom
+//type this in the browser: ?name=Jo&age=15
   $name = $_GET['name'];
-  echo "Hello $name";
-
+  $age = $_GET['age'];
+  echo "Hello $name, you are $age years old";
 ?>
