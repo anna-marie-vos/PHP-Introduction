@@ -5,6 +5,7 @@
   </head>
   <body>
     <div>
+      <h3>Isset()</h3>
       <p>isset($_GET['num1']) checks if something is typed in and if not makes it 0:</p>
       <p>Tutorial 10: This form uses 'get' and isset:</p>
       <form action = "tut10-add.php" method="GET">
@@ -23,7 +24,11 @@
       ?>
     </div>
 
+
+
+
     <div>
+      <h3>Embedding php in html</h3>
       <p>Foreach inside html to loop through names:</p>
       <?php
         $names = array('Gruffy','Sunny', 'Cubby');
@@ -34,6 +39,31 @@
       <?php
         }
       ?>
+    </div>
+
+
+
+
+
+
+
+
+
+    <div>
+      <h3>Embedding php in html example 2</h3>
+      <p>Pic a color from the form and display the text with it:</p>
+      <form action = "tut10-add.php" method="GET">
+        <input type="text" name="color" placeholder="type your color"/></br>
+        <input type="submit"/>
+      </form>
+
+      <?php
+        $color = $_GET['color'];
+      ?>
+
+        <b> <font color="<?php echo $color; ?>">
+          You picked <?php echo $color; ?></font>
+        </b>
     </div>
   </body>
 </html>
