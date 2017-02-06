@@ -17,9 +17,11 @@
 * It can also talk to other services such as POP3 and IMAP.
 * And works well with MySQL databasis.
 
-![Alt text](https://media1.giphy.com/media/uv0vUnOnGTivK/200_s.gif)
+
 
 ### Nifty Things you can do with php:
+![Alt text](https://media1.giphy.com/media/uv0vUnOnGTivK/200_s.gif)
+
 * Write things to a text file
 * Write things to pdf
 * Make downloadable excel file
