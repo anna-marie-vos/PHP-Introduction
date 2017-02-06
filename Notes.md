@@ -1,5 +1,6 @@
 # PHP
-![Alt text](http://2.bp.blogspot.com/_qObMt4WUTBs/SUNjAW3ngZI/AAAAAAAAATk/6CYwDQ0sEfc/s400/adam-he-man.gif "PHP is like HE-Man")
+###PHP is like he-man. Super cool but a little old. 
+![Alt text](http://2.bp.blogspot.com/_qObMt4WUTBs/SUNjAW3ngZI/AAAAAAAAATk/6CYwDQ0sEfc/s400/adam-he-man.gif)
 ### Origins
 * Rasmus Lerdorf created "Personnel Home Page Tools" in 1994 (he wanted to check how many views his CV had).
 * He released the source code in 1995 and rewrote it in 1996 and a number of times after that.
