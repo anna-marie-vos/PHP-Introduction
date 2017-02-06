@@ -31,7 +31,7 @@
 * ...or you can install XAMPP which does it all for you.
 
 ### Installation tips:
-* When you want write files using XAMPP you need to have admin wrights: sudo su ,
+* When you want write files using XAMPP you need to have admin rights: sudo su ,
 * and when to write files you need to change the folder and specific file permissions: chmod 777 fileName
 
 ## MySQL
