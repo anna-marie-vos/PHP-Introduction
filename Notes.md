@@ -17,13 +17,13 @@
 * It can also talk to other services such as POP3 and IMAP.
 * And works well with MySQL databasis.
 
+![Alt text](https://media1.giphy.com/media/uv0vUnOnGTivK/200_s.gif)
+
 ### Nifty Things you can do with php:
 * Write things to a text file
 * Write things to pdf
 * Make downloadable excel file
 * Send SMS text messages
-
-![Alt text](https://media1.giphy.com/media/uv0vUnOnGTivK/200_s.gif)
 
 ### Seriously though:
 * It is really easy to learn
