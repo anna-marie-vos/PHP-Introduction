@@ -2,7 +2,7 @@
 ### PHP is like he-man. ...Retro...yeaa
 ![Alt text](http://2.bp.blogspot.com/_qObMt4WUTBs/SUNjAW3ngZI/AAAAAAAAATk/6CYwDQ0sEfc/s400/adam-he-man.gif)
 
-### It is also a little like the old creepy guy that never dies...
+### It is also a little like this ...
 ![Alt text](http://images.forbes.com/media/lists/fictional/2011/c-montgomery-burns_197x282.jpg)
 
 ### Why would you want to use it?
