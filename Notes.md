@@ -11,6 +11,7 @@
 
 ### What can it do?
 * It reads php scripts on the server side and then renders it into html which is sent to the client.
+* It renders dynamic pages.
 * PHP can provide output to images, PDF files and other formats.
 * It can also talk to other services such as POP3 and IMAP.
 * And works well with MySQL databasis.
