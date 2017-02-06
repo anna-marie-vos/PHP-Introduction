@@ -34,5 +34,5 @@
 * When you want write files using XAMPP you need to have admin wrights: sudo su ,
 * and when to write files you need to change the folder and specific file permissions: chmod 777 fileName
 
-##M MySQL
+## MySQL
 ![Alt text](https://gbatemp.net/attachments/wait-a-minute-jpg.63089/)
