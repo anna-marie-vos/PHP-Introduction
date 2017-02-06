@@ -1,5 +1,5 @@
 # PHP
-### PHP is like he-man. Super cool but a little old.
+### PHP is like he-man. ...Retro...yeaa
 ![Alt text](http://2.bp.blogspot.com/_qObMt4WUTBs/SUNjAW3ngZI/AAAAAAAAATk/6CYwDQ0sEfc/s400/adam-he-man.gif)
 ### Why would you want to use it?
 * ....Because of Web development job adverts like this:http://www.trademe.co.nz/jobs/it/web-design/listing-1252304995.htm
