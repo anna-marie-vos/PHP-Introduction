@@ -13,9 +13,8 @@
 //time
   $date = date('y-m-d');
   $time = date('H:i:s');
-  $day = date('l');
 
   echo "<p>date: </p>";
 
-  echo "the date is $date, today is: $day the current time is $time";
+  echo "the date is $date: the current time is $time";
 ?>
