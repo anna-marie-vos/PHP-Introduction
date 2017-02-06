@@ -16,5 +16,4 @@
     echo "Username: $username
     and first name is: $firstname </br>";
   }
-
 ?>
