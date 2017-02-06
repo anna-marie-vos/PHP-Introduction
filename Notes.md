@@ -11,7 +11,7 @@
 
 ### What can it do?
 * It reads php scripts on the server side and then renders it into html which is sent to the client.
-* It renders dynamic pages.
+* It renders dynamic pages. (but not 'react' dynamic)
 * PHP can provide output to images, PDF files and other formats.
 * It can also talk to other services such as POP3 and IMAP.
 * And works well with MySQL databasis.
@@ -21,6 +21,7 @@
 * Write things to pdf
 * Make downloadable excel file
 * Send SMS text messages
+![Alt text](https://media1.giphy.com/media/uv0vUnOnGTivK/200_s.gif)
 
 ## Setup
 ### What do you need to make it work?
@@ -31,3 +32,6 @@
 ### Installation tips:
 * When you want write files using XAMPP you need to have admin wrights: sudo su ,
 * and when to write files you need to change the folder and specific file permissions: chmod 777 fileName
+
+##M MySQL
+![Alt text](https://gbatemp.net/attachments/wait-a-minute-jpg.63089/)
