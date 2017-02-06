@@ -1,7 +1,8 @@
 <?php
   // header('Content-Type: text/plain');
 
-  echo "<h4>This is the file were reading tut11-textDocument.txt</h4>";
+  echo "<h4>This is the file were reading
+    tut11-textDocument.txt</h4>";
 
   $file = "./tut11-textDocument.txt";
   $document = file_get_contents($file);

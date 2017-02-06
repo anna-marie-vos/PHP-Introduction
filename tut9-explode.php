@@ -5,6 +5,7 @@
   echo "$sentence </br>";
   $parts = (explode(' ',$sentence));
   print_r($parts);
+
 //strpos()
   $searchParameter = "m";
   echo "</br>search for the character '$searchParameter' using strpos() </br>";

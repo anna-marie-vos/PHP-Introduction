@@ -6,7 +6,7 @@
 
  $action = " INSERT INTO users2
    (firstname,lastname,Password,Username)
-   VALUES('anna','vos','anna@anna.com','anna@anna.com')
+   VALUES('frodo','baggins','frodo@frodo.com','frodo@frodo.com')
  ";
 
  mysql_query($action,$connect);

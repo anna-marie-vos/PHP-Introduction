@@ -7,8 +7,10 @@
   }else{
     echo "I don't know you </br>";
   }
+  
   $num1 = 19;
   $num2 = 20;
+
   if($num1 > $num2 and $num1 != 21){
     echo 'num1 is greater than num 2 </br>';
 

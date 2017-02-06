@@ -1,5 +1,5 @@
 <?php
-  $accounts = mysql_connect('localhost','root')
+  $connect = mysql_connect('localhost','root')
   or die(mysql_error());
   // mysqli_select_db('tableName', 'connection')
   mysql_select_db('tut1-account', $accounts);
@@ -15,5 +15,5 @@
     )
   ";
   // mysqli_select_db('action', 'connection')
-  mysql_query($sql , $accounts);
+  mysql_query($sql , $connect);
 ?>

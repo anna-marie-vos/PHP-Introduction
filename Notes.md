@@ -3,7 +3,7 @@
 ![Alt text](http://2.bp.blogspot.com/_qObMt4WUTBs/SUNjAW3ngZI/AAAAAAAAATk/6CYwDQ0sEfc/s400/adam-he-man.gif)
 
 ### Why would you want to use it?
-* ....Because of Web development job adverts like this:http://www.trademe.co.nz/jobs/it/web-design/listing-1252304995.htm
+* ....Because of Web development job adverts like this:http://www.trademe.co.nz/jobs/it/programming-development/listing-1248292085.htm
 
 ### Origins
 * Rasmus Lerdorf created "Personnel Home Page Tools" in 1994 (he wanted to check how many views his CV had).
@@ -30,7 +30,7 @@
 * It's simplistic, with very few files needed to serve a web page connected to a database.
 * It scales easily
 * There are countless resources available
-* Test driven development is supported. 
+* Test driven development is supported.
 
 ## Setup
 ### What do you need to make it work?
