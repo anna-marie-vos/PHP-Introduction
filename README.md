@@ -1,6 +1,7 @@
 # PHP-Introduction
 ## Latest version installation: 
 * follow the guide setup here: http://www.wikihow.com/Install-XAMPP-on-Linux
+* it installs to opt/lampp
 
 
 ## Installation:
