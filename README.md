@@ -1,4 +1,8 @@
 # PHP-Introduction
+## Latest version installation: 
+* follow the guide setup here: http://www.wikihow.com/Install-XAMPP-on-Linux
+
+
 ## Installation:
 * install XAMPP on your pc. Go to the XAMPP webpage for installation details: https://www.apachefriends.org/index.html
 * download the installation files for Ubuntu. Because I'm using ubuntu 16.04 it's slightly different.
