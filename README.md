@@ -8,7 +8,10 @@
 * go to: https://stackoverflow.com/questions/1676688/php-mysql-connection-not-working-2002-no-such-file-or-directory
 * the php.ini file is wrong, so you have to fix it...yuppiee
 * you can find the location of the php.ini file in the http://localhost/dashboard/phpinfo.php under "loaded configuration file"
-* to edit it in the terminal as the root user try: sudoedit /opt/lampp/etc/php.ini
+* to edit it in the terminal as the root user try: sudo nano /opt/lampp/etc/php.ini
+* find out where `mysql.default_socket` is in the open file.
+* change it so that its this: mysql.default_socket=/opt/lampp/var/mysql/mysql.sock
+
 
 ## Installation:
 * install XAMPP on your pc. Go to the XAMPP webpage for installation details: https://www.apachefriends.org/index.html
