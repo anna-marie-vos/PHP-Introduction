@@ -2,6 +2,7 @@
 ## Latest version installation: 
 * follow the guide setup here: http://www.wikihow.com/Install-XAMPP-on-Linux
 * it installs to opt/lampp
+* Checkout bitnami for xampp if you get time
 
 
 ## Installation:
