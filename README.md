@@ -1,9 +1,14 @@
 # PHP-Introduction
+# do not install the latest version it's bugged go for 5.6
 ## Latest version installation: 
 * follow the guide setup here: http://www.wikihow.com/Install-XAMPP-on-Linux
 * it installs to opt/lampp
 * Checkout bitnami for xampp if you get time
-
+### Error: Mysql - no such directory
+* go to: https://stackoverflow.com/questions/1676688/php-mysql-connection-not-working-2002-no-such-file-or-directory
+* the php.ini file is wrong, so you have to fix it...yuppiee
+* you can find the location of the php.ini file in the http://localhost/dashboard/phpinfo.php under "loaded configuration file"
+* to edit it in the terminal as the root user try: sudoedit /opt/lampp/etc/php.ini
 
 ## Installation:
 * install XAMPP on your pc. Go to the XAMPP webpage for installation details: https://www.apachefriends.org/index.html
