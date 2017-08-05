@@ -4,6 +4,9 @@
 * follow the guide setup here: http://www.wikihow.com/Install-XAMPP-on-Linux
 * it installs to opt/lampp
 * Checkout bitnami for xampp if you get time
+* go to : /opt/lampp
+* then type: sudo chmod 777 htdocs
+
 ### Error: Mysql - no such directory
 * go to: https://stackoverflow.com/questions/1676688/php-mysql-connection-not-working-2002-no-such-file-or-directory
 * the php.ini file is wrong, so you have to fix it...yuppiee
