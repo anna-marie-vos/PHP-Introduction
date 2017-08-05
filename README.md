@@ -6,6 +6,8 @@
 * Checkout bitnami for xampp if you get time
 * go to : /opt/lampp
 * then type: sudo chmod 777 htdocs
+* save files at: /opt/lampp/htdocs 
+
 
 ### Error: Mysql - no such directory
 * go to: https://stackoverflow.com/questions/1676688/php-mysql-connection-not-working-2002-no-such-file-or-directory
